@@ -1,5 +1,5 @@
 # shore_station_ysi_getdata_code
- python code to append ysi storm central code
+ python code to append ysi storm central data.
 
 This code is set up to run on my personal PC.  Paths are hardwired and will need to be changed to read from 
 the appropriate locations.
