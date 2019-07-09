@@ -1,0 +1,16 @@
+# station parameters time, name, units, name, outputornot
+UnixTimestamp,	unixtime,	secs,	time,	0
+Date,	date,	yyyy-mm-dd,	Time,	1
+Time,	time,	hh:mm:ss,	Time,	1
+Humboldt YSI_6600V2(Date_mmddyy),	date,	mmddyy,	Time,	1
+Humboldt YSI_6600V2(Time_hhmmss),	time,	hhmmss,	Time,	1
+Humboldt YSI_6600V2(Temp_C),	temperature,	C,	Temperature,	1
+Humboldt YSI_6600V2(SpCond_mS_cm),	conductivity,	mS/cm,	Conductivity,	0
+Humboldt YSI_6600V2(Sal_psu),	salinity,	psu,	Salinity,	1
+Humboldt YSI_6600V2(pH),	ph,	?,	pH,	1
+Humboldt YSI_6600V2(ODO_Concplus_mg_L),	oxygen_conc,	mg/L,	Dissolved Oxygen,	1
+Humboldt YSI_6600V2(Chlorophyll_ug_L),	cholorphyll_conc,	&micro;g/L,	Chlorophyll,	1
+Humboldt YSI_6600V2(Depth_meters),	depth,	m,	Depth,	1
+Humboldt YIS_6600V2(Turbidityplus_NTU,	turbidity,	NTU,	Turbidity,	1
+Humboldt,	PAR,	&micro;mol/m^2/s,	PAR,	1
+Humboldt,	shortwave,	W/m^2,	Short Wave,	1

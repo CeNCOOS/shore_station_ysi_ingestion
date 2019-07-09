@@ -1,0 +1,16 @@
+# station parameters time, name, units, name, outputornot
+UnixTimestamp,	unixtime,	secs,	time,	0
+Date,	date,	yyyy-mm-dd,	date,	1
+Time,	time,	hh:mm:ss,	hhmmss,	1
+SantaCruzWharf YSI_6600V2_UCSC(Date_yymmdd),	date,	yymmdd,	Time,	1
+SantaCruzWharf YSI_6600V2_UCSC(Time_hhmmss),	time,	hhmmss,	Time,	1
+SantaCruzWharf YSI_6600V2_UCSC(Temp_C),	temperature,	C,	Temperature,	1
+SantaCruzWharf YSI_6600V2_UCSC(SpCond_mS_cm),	conductivity,	mS/cm,	Conductivity,	0
+SantaCruzWharf YSI_6600V2_UCSC(Sal_psu),	salinity,	psu,	Salinity,	1
+SantaCruzWharf YSI_6600V2_UCSC(pH),	ph,	?,	pH,	1
+SantaCruzWharf YSI_6600V2_UCSC(ODO_Concplus_mg_L),	oxygen_conc,	mg/L,	Dissolved Oxygen,	1
+SantaCruzWharf YSI_6600V2_UCSC(ODO_pctplus_pct),	oxygen_sat,	%,	Dissolved Oxygen,	1
+SantaCruzWharf YSI_6600V2_UCSC(Chlorophyll_ug_L),	chlorophyll,	&micro;g/L,	Chlorophyll,	1
+SantaCruzWharf YSI_6600V2_UCSC(Pressure_psia),	pressure,	psia,	Pressure,	1
+SantaCruzWharf YSI_6600V2_UCSC(Turbidityplus_NTU),	turbidity,	NTU,	Turbidity,	1
+SantaCruzWharf YSI_6600V2_UCSC(Fluorescence_pct_FS),	fluorescence,	%,	Fluorescence,	1

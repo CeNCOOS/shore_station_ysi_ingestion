@@ -1,0 +1,15 @@
+# station parameters time,name,units,name,outputornot
+UnixTimestamp,	unixtime,	secs,	time,	0
+Date,	date,	yyyymmdd,	date,	1
+Time,	time,	hhmmss,	hhmmss,	1
+Trinidad YSI_6600V2(Chlorophyll_ug_L),	chlorophyll_conc,	&micro;g/L,	Chlorphyll,	1
+Trinidad YSI_6600V2(Date_mmddyy),	date,	mmddyy,	Time,	1
+Trinidad YSI_6600V2(Depth_meters),	depth,	m,	Depth,	1
+Trinidad YSI_6600V2(ODO_Concplus_mg_L),	oxygen_conc,	mg/L,	Dissolved Oxygen,	1
+Trinidad YSI_6600V2(ODO_pctplus_pct),	oxygen_sat,	%,	Dissolved Oxygen,	1
+Trinidad YSI_6600V2(pH),	ph,	?,	pH,	1
+Trinidad YSI_6600V2(Sal_psu),	salinity,	psy,	Salinity,	1
+Trinidad YSI_6600V2(SpCond_mS_cm),	conductivity,	mS/cm,	Conductivity,	0
+Trinidad YSI_6600V2(Temp_C),	temperature,	C,	Temperature,	1
+Trinidad YSI_6600V2(Time_hhmmss),	time,	hhmmss,	Time,	1
+Trinidad YSI_6600V2(Turbidityplus_NTU),	turbidity,	NTU,	Turbidity,	1

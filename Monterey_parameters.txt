@@ -1,0 +1,20 @@
+# station parameters time,name,units,name,outputornot
+UnixTimestamp,	unixtime,	secs,	time,	0
+Date,	date,	yyyymmdd,	date,	1
+Time,	time,	hhmmss,	hhmmss,	1
+MWIIMBAbaloneCo YSI_Date_mmddyy,	date,	mmddyy,	Time,	1
+MWIIMBAbaloneCo YSI_Time_hhmmss,	time,	hhmmss,	Time,	1
+MWIIMBAbaloneCo Temp_C,	temperature,	C,	Temperature,	1
+MWIIMBAbaloneCo SpCond_mS_cm),	conductivity,	mS/cm,	Conductivity,	0
+MWIIMBAbaloneCo Sal_psu,	salinity,	psu,	Salinity,	1
+MWIIMBAbaloneCo pH,	ph,	?,	pH,	1
+MWIIMBAbaloneCo ODO_mgL,	oxygen_conc,	mg/L,	Dissolved Oxygen,	1
+MWIIMBAbaloneCo Depth_meters,	depth,	m,	Depth,	1
+MWIIMBAbaloneCo Chla_ug_L,	chlorophyll_conc,	&micro;g/L,	Chlorphyll,	1
+MWIIMBAbaloneCo BGAPE_cells_ml,	BGAPE,	cells,	BGAPE,	1
+MWIIMBAbaloneCo Turbidity_NTU,	turbidity,	NTU,	Turbidity,	1
+MWIIMBAbaloneCo pH_mV,	ph_mv,	mv,	pHmv,	0
+MWIIMBAbaloneCo Chla_RFU,	chlorophyll_rfu,	rfu,	Chloropyll_rfu,	0
+MWIIMBAbaloneCo BGAPE_RFU,	BGAPE_RFU,	rfu,	BGAPE_rfu,	0
+MWIIMBAbaloneCo ODO_PctSat,	oxygen_sat,	%,	Dissolved Oxygen,	1
+MWIIMBAbaloneCo Sonde_Batt_V,	battery,	volts,	battery,	0

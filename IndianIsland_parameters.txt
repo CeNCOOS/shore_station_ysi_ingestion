@@ -1,0 +1,16 @@
+# station parameters time,	name,	units,	name,	outputornot
+UnixTimestamp,	unixtime,	secs,	time,	0
+Date,	date,	yyyy-mm-dd,	date,	1
+Time,	time,	hh:mm:ss,	time,	1
+Indian_Island YSI_6600EDS(Chlorphyll_ug_L),	chlorophyll_conc,	&micro;g/L,	Chlorophyll,	1
+Indian_Island YSI_6600EDS(Date_mmddyy),	date,	mmddyy,	Time,	1
+Indian_Island YSI_6600EDS(Depth_meters),	depth,	m,	Depth,	1
+Indian_Island YSI_6600EDS(DO_mg_L),	oxygen_conc,	mg/L,	Dissolved Oxygen,	1
+Indian_Island YSI_6600EDS(DOsat_pct),	oxygen_sat,	%,	Dissolved Oxygen,	1
+Indian_Island YSI_6600EDS(pH),	ph,	?,	pH,	1
+Indian_Island YSI_6600EDS(Sal_psu),	salinity,	psu,	Salinity,	1
+Indian_Island YSI_6600EDS(SpCond_mS_cm),	conductivity,	mS/cm,	Conductivity,	0
+Indian_Island YSI_6600EDS(Temp_C),	temperature,	C,	Temperature,	1
+Indian_Island YSI_6600EDS(Time_hhmmss),	time,	hhmmss,	Time,	1
+Indian_Island YSI_6600EDS(Turbidity_NTU),	turbidity,	NTU,	Turbidity,	1
+Indian_Island YSI_6600EDS(TDS_g_L),	dissolved_solids,	g/L,	Dissolved Solids,	1
